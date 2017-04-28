@@ -1,0 +1,6 @@
+.idea/
+.htaccess
+wp-config-local.php
+node_modules/
+vendor/
+.sass-cache/
